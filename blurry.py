@@ -199,7 +199,7 @@ class MainWindow(QMainWindow):
     def save(self):
         # Save the image
         if self.modified:
-            cv2.imwrite(self.image_path, self.image)
+            cv2.imwrite(self.image_path, self.image, [int(cv2.IMWRITE_JPEG_QUALITY), 80])
             self.modified = False
             self.update_title()
 
