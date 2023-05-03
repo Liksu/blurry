@@ -21,7 +21,7 @@ You can use the following keyboard shortcuts:
 `N` or `→`: Skip the current image and open the next one\
 `P` or `←`: Skip the current image and open the previous one
 
-To blur parts of an image, click and drag the mouse over the area you wish to blur. A red rectangle will appear around the selected area. When you release the mouse, the area will be blurred. You can adjust the size of the blur by moving the slider in the toolbar.
+To blur parts of an image, click and drag the mouse over the area you wish to blur. A red rectangle will appear around the selected area. When you release the mouse, the area will be blurred.
 
 ## Installation
 
